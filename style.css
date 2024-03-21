@@ -6,3 +6,6 @@ p {
     text-align: center
 }
 
+#vertical {
+    float: left;
+  }
