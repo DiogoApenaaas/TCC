@@ -8,20 +8,19 @@
 
 #horizontal a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 6px 125px;
     text-decoration: none;
 }
   
 #horizontal a:hover:not(.active) {
-    background-color: #111;
-}  
+    color: #00ff2a;
+} 
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
   }
