@@ -34,14 +34,14 @@ body {
   
     a {
       font-size: 22px;
-      color: #777;
+      color: #ffffff;
       text-decoration: none;
       transition: all 0.45s;
     }
   
   
     &:hover a {
-      color: #4f9bd9;
+      color: #bd4232;
     }
   
     &:not(:last-child) {
