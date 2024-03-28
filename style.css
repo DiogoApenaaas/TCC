@@ -28,7 +28,7 @@ body {
   
   .menu li {
     width: 125px;
-    height: 100px;
+    height: 0px;
     transition: background-position-x 0.9s linear;
     text-align: center;
   
