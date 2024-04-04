@@ -7,13 +7,16 @@
 }
 
 .descricao{
-  max-width: 80ch;
+  max-width: 150%;
   text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 35%;
+  font-size:150%;
+  color: white;
   }
+  
 
 body {
   background-image: url('https://i.imgur.com/hXSBxRY_d.webp?maxwidth=760&fidelity=grand');
