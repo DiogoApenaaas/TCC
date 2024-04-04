@@ -6,6 +6,15 @@
   color:#ffffff;
 }
 
+.descricao{
+  max-width: 80ch;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  }
+
 body {
   background-image: url('https://i.imgur.com/hXSBxRY_d.webp?maxwidth=760&fidelity=grand');
   background-repeat: no-repeat;
