@@ -33,6 +33,13 @@ body {
   width: 35%;
 }
 
+.right {
+  display: block;
+  margin-left: right;
+  margin-right: right;
+  width: 35%;
+}
+
 .menu {
     display: flex;
     justify-content: center;
