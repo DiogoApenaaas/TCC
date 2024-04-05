@@ -18,6 +18,7 @@
   }
   
 
+/* menu vertical */
 body {
   background-image: url('https://i.imgur.com/hXSBxRY_d.webp?maxwidth=760&fidelity=grand');
   background-repeat: no-repeat;
@@ -65,3 +66,16 @@ body {
     }
   }
   
+  /* link dos singles */
+
+  .single:link, .single:visited {
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .single:hover, .single:active {
+    color: #bd4232;
+  }
