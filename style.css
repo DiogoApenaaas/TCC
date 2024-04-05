@@ -1,3 +1,12 @@
+.btn {
+  justify-content: right;
+  display: flex;
+  align-items: center;
+
+}
+
+
+
 #titulo {
   text-align: center;
   font-size: clamp(5vw, 6vw, 7vw);
