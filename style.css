@@ -91,9 +91,16 @@ body {
   }
 
 
-.container {  
-    display: grid;  
-    grid-gap: 170px;  
-    grid-template-columns: repeat(auto-fit, 220px);
-    grid-template-rows: repeat(2, 260px);  
-}
+ /* imagem dos singles */
+
+ .singlecenter
+ {
+   width: 90%;
+   height: auto;
+ }
+ 
+ #ladoalado{
+     display: flex; /* coloca as imagens uma ao lado da outra */
+     justify-content: center; /* alinha as imagens no centro da tela */
+ }
+ 
