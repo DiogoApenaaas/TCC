@@ -104,3 +104,13 @@ body {
      justify-content: center; /* alinha as imagens no centro da tela */
  }
  
+
+
+
+
+
+
+ .dom{
+  float: right;
+  /*margin-right: 0; /* ou qualquer valor desejado */
+}
