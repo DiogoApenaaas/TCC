@@ -16,7 +16,7 @@
   margin-left: auto;
   margin-right: auto;
   width: clamp(65vw, 85vw, 90vw);
-  font-size:clamp(3vw, 5vw, 4vw);
+  font-size:3vw;
   color: white;
   }
   
