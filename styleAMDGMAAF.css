@@ -1,0 +1,146 @@
+
+
+
+#titulo {
+  text-align: center;
+  font-size: clamp(5vw, 6vw, 7vw);
+  font-family: Edda Filled;
+  margin: 0%;
+  color:#ffffff;
+}
+
+.descricao{
+  max-width: 150%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: clamp(65vw, 85vw, 90vw);
+  font-size:3vw;
+  color: white;
+  }
+  
+
+/* menu vertical */
+body {
+  background-image: url('https://i.imgur.com/eCSH2mT.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.right {
+  display: block;
+  margin-left: right;
+  margin-right: right;
+  width: 35%;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 720px;
+    margin: 0 auto;
+    height: 10vh;
+    list-style: none;
+  }
+  
+  .menu li {
+    width: 125px;
+    height: 0px;
+    transition: background-position-x 0.9s linear;
+    text-align: center;
+  
+    a {
+      font-size: 22px;
+      color: #ffffff;
+      text-decoration: none;
+      transition: all 0.45s;
+    }
+  
+  
+    &:hover a {
+      color: rgb(155, 155, 155);
+    }
+  
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+  
+  /* link dos singles */
+
+  .single:link, .single:visited {
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .single:hover, .single:active {
+    color: #bd4232;
+  }
+
+
+ /* imagem dos singles */
+
+ .singlecenter
+ {
+   width: 90%;
+   height: auto;
+ }
+ 
+ #ladoalado{
+     display: flex; /* coloca as imagens uma ao lado da outra */
+     justify-content: center; /* alinha as imagens no centro da tela */
+ }
+ 
+
+
+
+
+
+
+ .dom{
+  float: right;
+  /*margin-right: 0; /* ou qualquer valor desejado */
+ }
+
+
+
+
+
+
+
+
+
+ .coli {
+  padding: .7em;
+  margin: 0;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+th{
+  background-color: rgb(155, 155, 155);
+}
+td{
+  font-weight:bold;
+  background-color: #EEE;
+}
+
+table{
+  width: 100%;
+  margin-bottom : .5em;
+  table-layout: fixed;
+  text-align: center;
+}
