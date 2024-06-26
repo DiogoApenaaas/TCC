@@ -144,3 +144,11 @@ table{
   table-layout: fixed;
   text-align: center;
 }
+
+.img-container-block {
+  text-align: center;
+}
+.img-container-inline {
+  text-align: center;
+  display: block;
+}
