@@ -68,7 +68,7 @@ body {
   
   
     &:hover a {
-      color: #bd4232;
+      color: #000000;
     }
   
     &:not(:last-child) {
