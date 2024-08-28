@@ -156,6 +156,10 @@ table{
 
 /* FORMULARIO */
 
+body {
+  font-family: Edda Filled;
+  margin: 20px;
+}
 .form-container {
   max-width: 500px;
   margin: auto;
