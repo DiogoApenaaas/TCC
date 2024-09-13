@@ -24,9 +24,6 @@
 /* menu vertical */
 body {
   background-color: #d1aacb ;
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: 100% 100%;
 }
 
 .center {
