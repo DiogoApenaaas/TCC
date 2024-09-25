@@ -33,7 +33,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 35%;
+    width: 300px;
+    min-width: 40%; 
   }
   
   .right {
