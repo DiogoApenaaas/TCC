@@ -69,7 +69,7 @@
     
     
       &:hover a {
-        color: #bd4232;
+        color: #b4a8a8;
       }
     
       &:not(:last-child) {
@@ -88,7 +88,7 @@
     }
     
     .single:hover, .single:active {
-      color: #bd4232;
+      color: #b4a8a8;
     }
   
   
@@ -132,7 +132,7 @@
   }
   
   th{
-    background-color: #bd4232;
+    background-color: #b4a8a8;
   }
   td{
     font-weight:bold;
