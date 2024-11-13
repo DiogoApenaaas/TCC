@@ -206,7 +206,7 @@
   footeer {
       padding: 25px;
       background-color: none;
-      color: black;
+      color: white;
       display: flex;
       justify-content: space-between; 
       align-items: center; 
@@ -219,7 +219,7 @@
     .redes button {
       background: none; 
       border: none; 
-      color: black; 
+      color: white; 
       font-size: 20px; 
       cursor: pointer;
     }
