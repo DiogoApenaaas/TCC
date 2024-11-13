@@ -184,7 +184,7 @@ body {
 
 .footeer {
   padding: 25px;
-  background-color: #be84b3;
+  background-color: none;
   color: black;
   display: flex;
   justify-content: space-between; 
