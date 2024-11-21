@@ -23,7 +23,7 @@
 
 /* menu vertical */
 body {
-  background-color: rgb(73, 73, 73);
+  background-color: #413b38;
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
@@ -69,7 +69,7 @@ body {
   
   
     &:hover a {
-      color: rgb(155, 155, 155);
+      color: #8c8484;
     }
   
     &:not(:last-child) {
