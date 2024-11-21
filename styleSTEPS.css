@@ -57,7 +57,7 @@ footeer {
   
   /* menu vertical */
   body {
-    background-image: url('https://i.imgur.com/8M8G3sN.png');
+    background-color: #a33820;
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: 100% 100%;
@@ -103,7 +103,7 @@ footeer {
     
     
       &:hover a {
-        color: rgb(228, 89, 47);;
+        color: #da9582;;
       }
     
       &:not(:last-child) {
